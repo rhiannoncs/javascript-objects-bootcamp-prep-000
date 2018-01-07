@@ -12,4 +12,4 @@ function removeFromPlaylist(playlist, artistName) {
   return playlist
 }
 
-console.log(removeFromPlaylist({ Josie: 'Poopy Doopy'}, Josie))
+console.log(removeFromPlaylist({ Josie: 'Poopy Doopy'}, "Josie"))
